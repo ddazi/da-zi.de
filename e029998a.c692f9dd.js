@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{90:function(a){a.exports=JSON.parse('{"allTagsPath":"/da-zi.de/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/da-zi.de/blog/tags/docusaurus"}')}}]);

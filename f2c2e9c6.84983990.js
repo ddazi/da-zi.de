@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{91:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/da-zi.de/blog/welcome"},{"title":"Hello","permalink":"/da-zi.de/blog/hello-world"},{"title":"Hola","permalink":"/da-zi.de/blog/hola"}]}')}}]);
