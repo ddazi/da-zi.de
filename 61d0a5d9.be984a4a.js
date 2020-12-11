@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{76:function(a){a.exports=JSON.parse('{"allTagsPath":"/da-zi.de/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/da-zi.de/blog/tags/hello"}')}}]);
