@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Snippetbase',
-  tagline: 'My personal snippetbase, ugly and fast',
+  tagline: 'Playing around with Docusarus, some Snippets - ugly and fast',
   url: 'https://github.com/ddazi/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
